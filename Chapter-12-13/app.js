@@ -1,4 +1,4 @@
-// Q1) 
+// Q1) ***********************************************************************************
 
 // var inputChar = prompt("Enter a character (number or letter):");
 
@@ -25,7 +25,7 @@
 //     alert(firstChar + " is neither a number nor a letter.");
 // }
 
-// Q2
+// Q2) *****************************************************************************************
 
 // let int1 = +prompt("Enter 1st integer");
 // let int2 = +prompt("Enter 2nd integer");
@@ -40,7 +40,7 @@
 //     alert("Both are equal");
 // }
 
-// Q3)
+// Q3) ****************************************************************************************
 
 // let num = +prompt("Enter any number");
 // if (num > 0) {
@@ -53,7 +53,7 @@
 //     alert("zero");
 // }
 
-// Q4)
+// Q4) *******************************************************************************************
 
 // let char = prompt("Enter any alphabet").toLowerCase();
 // if (char == "a" || char == "e" || char == "i" || char == "o" || char == "u") {
@@ -63,7 +63,7 @@
 //     alert(`False ${char} is not a vowel`);
 // }
 
-// Q5)
+// Q5) ***********************************************************************************
 
 // let dbPassword = (12345);
 // let userPassword = prompt("Enter your password");
@@ -78,7 +78,7 @@
 //     alert("Incorrect password");
 // }
 
-// Q6) 
+// Q6) ********************************************************************************
 
 // var hour = +prompt("Enter any number :");
 // if (hour < 18) {
@@ -91,7 +91,7 @@
 //     alert("Please enter a number");
 // }
 
-// Q7)
+// Q7)*************************************************************************************
 
 // let time = +prompt("Enter time i.e in this format (eg:1900 = 7pm)");
 
